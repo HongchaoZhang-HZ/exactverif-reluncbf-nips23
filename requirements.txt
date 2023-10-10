@@ -1,0 +1,16 @@
+torch~=1.12.1
+numpy~=1.24.2
+matplotlib~=3.6.3
+torchvision~=0.13.1
+appdirs~=1.4.4
+typing~=3.7.4.3
+setuptools~=65.5.1
+tqdm~=4.64.1
+pytest~=7.2.2
+Pillow~=9.3.0
+sklearn~=0.0.post1
+scikit-learn~=1.2.1
+scipy~=1.10.0
+cmaes~=0.9.1
+matlab~=0.1
+auto_LiRPA
