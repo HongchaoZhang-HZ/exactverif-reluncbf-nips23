@@ -34,6 +34,7 @@
         <li><a href="#run-the-code">Run the Code</a></li>
       </ul>
     </li>
+    <li><a href="#citation"> Citation</a></li>
     <!-- <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li> -->
@@ -118,11 +119,12 @@ If our work is useful for your research, please consider citing:
 @inproceedings{zhang2023exact,
   title={Exact Verification of Re{LU} Neural Control Barrier Functions},
   author={Zhang, Hongchao and Junlin, Wu and Yevgeniy, Vorobeychik and Clark, Andrew},
-  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-  year={2023},
-  url={https://openreview.net/forum?id=1h2TAUEfc4}
+  booktitle={Advances in neural information processing systems},
+  year={2023}
 }
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
