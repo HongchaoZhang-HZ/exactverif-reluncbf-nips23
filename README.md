@@ -81,6 +81,8 @@ We train the NCBF via the method proposed in [[2]](zhao2020synthesizing) with $v
 
 **hi-ord $_8$:** We evaluate our approach on an eight-dimensional system that first appeared in [[7]](abate2021fossil) to evaluate the scalability of proposed verification method. 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -89,7 +91,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-Clone the repo
+Clone the repo and navigate to the folder
 ```sh
 git clone https://github.com/HongchaoZhang-HZ/exactverif-reluncbf-nips23.git
 
@@ -103,7 +105,7 @@ Install packages via pip
 
 ### Run the code
 
-Choose the system and corresponding NCBFs you want to verify, e.g., '/Darboux/darboux_2_64/' and run the code
+Choose the system and corresponding NCBFs you want to verify and navigate to the folder, e.g., '/Darboux/darboux_2_64/' and run the code
    ```sh
    python main.py
    ```
