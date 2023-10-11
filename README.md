@@ -88,6 +88,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
+Clone the repo
+```sh
+git clone https://github.com/HongchaoZhang-HZ/exactverif-reluncbf-nips23.git
+
+cd exactverif-reluncbf-nips23
+```
+
 Install packages via pip
    ```sh
    pip install -r requirements.txt
@@ -102,6 +109,21 @@ Choose the system and corresponding NCBFs you want to verify, e.g., '/Darboux/da
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CITATION -->
+## Citation
+If our work is useful for your research, please consider citing:
+
+<!-- insert bibtex format code block -->
+```
+@inproceedings{zhang2023exact,
+  title={Exact Verification of Re{LU} Neural Control Barrier Functions},
+  author={Zhang, Hongchao and Junlin, Wu and Yevgeniy, Vorobeychik and Clark, Andrew},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023},
+  url={https://openreview.net/forum?id=1h2TAUEfc4}
+}
+```
+
 <!-- LICENSE -->
 ## License
 
@@ -113,6 +135,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
+
+If you have any questions, please feel free to reach out to us.
 
 Hongchao Zhang - [Homepage](https://hongchaozhang-hz.github.io/) - hongchao@wustl.edu
 
