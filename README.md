@@ -20,13 +20,13 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<!-- <details> -->
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#exact-verification-algorithm">Exact Verification Algorithm</a>
     </li>
-    <li><a href="experiment-settings">Experiment Settings</a></li>
+    <li><a href="#experiments">Experiments</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -41,7 +41,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+<!-- </details> -->
 
 
 
@@ -65,8 +65,10 @@ The above figure illustrates the proposed coarser-to-finer searching method. Hyp
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- EXPERIMENT SETTINGS -->
-## Experiment Settings
+
+
+<!-- EXPERIMENTS -->
+## Experiments
 
 **Darboux:** We consider the Darboux system proposed by [[1]](zeng2016darboux), a nonlinear open-loop polynomial system that has been widely used as a benchmark for constructing barrier certificates. The dynamic model is given in the supplement. We obtain the trained NCBF by following the method proposed in [[2]](zhao2020synthesizing). 
 
