@@ -10,7 +10,7 @@
     Exact Verification of ReLU Neural Control Barrier Functions (NeurIPS 2023)
     <br />
     <!-- <a href="https://github.com/HongchaoZhang-HZ/exactverif-reluncbf-nips23"><strong>NeurIPS2023 version »</strong></a> -->
-    <a href="https://github.com/HongchaoZhang-HZ/exactverif-reluncbf-nips23/zhang2023exact.pdf"><strong>Full Paper »</strong></a>
+    <a href="https://github.com/HongchaoZhang-HZ/exactverif-reluncbf-nips23/blob/main/zhang2023exact.pdf"><strong>Full Paper »</strong></a>
     <br />
   </p>
 </div>
